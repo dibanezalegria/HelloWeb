@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>Entry form</h1>
+        <h2>Testing GIT</h2>
 
         <form name="Name Input Form" action="response.jsp">
             Enter your name:
